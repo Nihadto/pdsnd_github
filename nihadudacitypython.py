@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import numpy as np
 
-
+#9changes
 def clear():
     """ Clear the screen before running or restarting the script. """
     # for windows
